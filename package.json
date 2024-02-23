@@ -9,7 +9,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ntkhang03/fb-chat-api-temp.git"
+		"url": "https://github.com/RAJ-VAU/EVAN-RAJ-API2.git"
 	},
 	"keywords": [
 		"facebook",
@@ -20,7 +20,7 @@
 		"fb-chat-api-temp"
 	],
 	"bugs": {
-		"url": "https://github.com/ntkhang03/fb-chat-api-temp/issues"
+		"url": "https://github.com/RAJ-VAU/EVAN-RAJ-API2.git/issues"
 	},
 	"author": "EVAN RAJ (rebuild)",
 	"license": "MIT",
